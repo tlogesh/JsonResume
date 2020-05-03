@@ -37,7 +37,8 @@
       "summary": "Nielsen, is a global marketing research firm. We attempt to provide clients with valuable insights into consumer behavior and marketing information. We provide a truly complete picture of the complex and changing marketplace that manufacturers and retailers need to innovate and grow their businesses.",
       "highlights": [
         "Developing data pipelines to derive meaningful conclusion out of retail sales data.",
-        "Building a custom version of airflow to run with kubenetes, which can auto scale up and down depending on the demand."
+        "Building a custom version of airflow to run with kubenetes, which can auto scale up and down depending on the demand.",
+        "Developing web application to display visulization of the FMCG sales data."
       ]
     },
     {
