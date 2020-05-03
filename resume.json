@@ -1,0 +1,161 @@
+{
+  "meta": { "theme": "Stackoverflow" },
+  "basics": {
+    "name": "Logesh Thulasiraman",
+    "label": "Software Developer",
+    "picture": "https://logesht.dev/img/logesh.jpg",
+    "email": "logesht@zoho.com",
+    "phone": "+91 9840-770-953",
+    "website": "https://logesht.dev",
+    "summary": "Hello! I'm Logesh Thulasiraman, a polyglot full stack developer who enjoys building things that live on the internet. I have experience in developing and designing software for both web and mobile application. \n \n I have been coding for almost 5+ years now and I have a strong interest in solving conceptual and analytical problems. I am an enthusiastic learner, and believe that learning grows by sharing. I have good exposure to cloud architectures. I love exploring and experimenting new technologies.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Chennai",
+      "countryCode": "India",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "tlogesh",
+        "url": "https://github.com/tlogesh"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Logesh Thulasiraman",
+        "url": "https://www.linkedin.com/in/logesh-thulasiraman-b1527aa2/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Nielsen",
+      "position": "Software Engineer",
+      "website": "https://www.nielsen.com/",
+      "startDate": "2019-02-01",
+      "endDate": "2020-05-01",
+      "summary": "Nielsen, is a global marketing research firm. We attempt to provide clients with valuable insights into consumer behavior and marketing information. We provide a truly complete picture of the complex and changing marketplace that manufacturers and retailers need to innovate and grow their businesses.",
+      "highlights": [
+        "Developing data pipelines to derive meaningful conclusion out of retail sales data.",
+        "Building a custom version of airflow to run with kubenetes, which can auto scale up and down depending on the demand."
+      ]
+    },
+    {
+      "company": "Xome",
+      "position": "Software Engineer",
+      "website": "https://www.xome.com/",
+      "startDate": "2018-01-01",
+      "endDate": "2019-02-01",
+      "summary": "Xome is a platform to buy your new home, sell your old one, find an agent, view virtual tours, & receive homes by e-mail.",
+      "highlights": [
+        "Built an crm (customer relationship management) mobile app for real estate agents.",
+        "Worked with a variety of platforms in building a hybrid mobile app.",
+        "Developed a CRM application using node js and react native.",
+        "Built agent assignment and followup micro service for CRM.",
+        "Architected and shipped the mobile app to both android and ios stores."
+      ]
+    },
+    {
+      "company": "Broadsoft (Acquired by Cisco)",
+      "position": "Software Developer",
+      "website": "https://www.cisco.com/",
+      "startDate": "2017-07-01",
+      "endDate": "2018-01-01",
+      "summary": "Team-One is a business collaboration app that can drive and enhance business productivity, making teamwork simple both inside and outside the organization.",
+      "highlights": [
+        "Developed real time messaging platform similar to slack.",
+        "Worked on real time messaging and video streamings.",
+        "Developed web application, mobile and desktop application for both windows and mac using electron js.",
+        "Proposed and built a market place, allowing users to build extensions of their own."
+      ]
+    },
+    {
+      "company": "AthenaHealth",
+      "position": "Programmer",
+      "website": "https://www.athenahealth.com/",
+      "startDate": "2015-07-01",
+      "endDate": "2017-07-01",
+      "summary": "Athena Health provides network-enabled services for healthcare and point-of-care mobile apps in the United States.",
+      "highlights": [
+        "Worked in building an electronic health record system for hospitals.",
+        "Built an extensive testing framework for testing EHR products.",
+        "Built continuous integration and deployment pipelines.",
+        "IOT integrations - recording patients vitals from devices."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anna University",
+      "area": "Electronics and communication Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2011-04-01",
+      "endDate": "2015-05-01",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Gold Simply Excellent Award",
+      "date": "2020-02-20",
+      "awarder": "Nielsen",
+      "summary": "During the last couple of months, when the team was in crisis mode, Logesh stepped in, helped solve the issues with a whatever it takes attitude to debug, figure out the root causes, fix them."
+    },
+    {
+      "title": "Spot Light Award",
+      "date": "2016-04-15",
+      "awarder": "AthenaHealth",
+      "summary": "Was awarded this award for building an automated testing framework for testing EHR products."
+    },
+    {
+      "title": "Extra Mile",
+      "awarder": "Athena Health"
+    },
+    {
+      "title": "Challenger",
+      "awarder": "Xome"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front End",
+      "keywords": [
+        "HTML",
+        "Boottrap CSS",
+        "React",
+        "React Native",
+        "Redux",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Back End",
+      "keywords": [
+        "Node.js",
+        "Python",
+        "Java",
+        "Spring Boot",
+        "SQL, USQL",
+        "Postgres",
+        "MongoDB",
+        "Firebase",
+        "Ruby",
+        "Micro Services",
+        "Express and Sail JS"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "keywords": [
+        "Azure",
+        "AWS",
+        "CI & CD Pipelines",
+        "Bitbukcet Pipelines",
+        "Netlify"
+      ]
+    }
+  ]
+}
